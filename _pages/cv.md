@@ -33,9 +33,11 @@ Publications
   
 Selected Talks, Presentations & Posters
 ======
-[Flash Talk] Lasnick, O., Marrouch, N., Kamal, S., Low, S., Hoeft, F. Growth Charts for Functional Brain Networks in Reading Disorder. Neuromatch Conference, December 2021.
-[Poster] Lasnick, O., Marrouch, N., Kamal, S., Low, S., Hoeft, F. Growth charts for functional brain networks in dyslexia. University of Connecticut Poster Session, November 2021.
-[CANCELLED DUE TO COVID-19, Poster] Kamal, S., Lasnick, O., Low, S. Growth Charts for Functional Brain Networks in Neurodevelopmental Disorders. American Psychiatric Association (APA) Annual Meeting in Philadelphia, April 2020.
+* [Flash Talk] Lasnick, O., Marrouch, N., Kamal, S., Low, S., Hoeft, F. Growth Charts for Functional Brain Networks in Reading Disorder. Neuromatch Conference, December 2021.
+
+* [Poster] Lasnick, O., Marrouch, N., Kamal, S., Low, S., Hoeft, F. Growth charts for functional brain networks in dyslexia. University of Connecticut Poster Session, November 2021.
+
+* [CANCELLED DUE TO COVID-19, Poster] Kamal, S., Lasnick, O., Low, S. Growth Charts for Functional Brain Networks in Neurodevelopmental Disorders. American Psychiatric Association (APA) Annual Meeting in Philadelphia, April 2020.
   
 Teaching
 ======
@@ -45,13 +47,15 @@ Teaching
   
 Technical Skills
 ======
-  Programming Languages
+  *Programming Languages
+  ======
 * Python (Highly Proficient)
 * Java (Proficient)
 * C/C++ (Proficient)
-* Some experience: SQL, Scheme, HTML
+* *Some experience: SQL, Scheme, HTML
 
-  Statistical Tools/Software
+  *Statistical Tools/Software
+  ======
 * SPSS (Highly Proficient)
 * R (Proficient)
 * MATLAB (Proficient)
