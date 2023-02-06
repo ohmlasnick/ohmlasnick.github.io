@@ -1,7 +1,7 @@
 ---
 title: "The importance of family history in dyslexia."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2022-05-01-paper-title-number-1
 excerpt: ''
 date: 2022-05-01
 venue: 'The Reading League Journal'
