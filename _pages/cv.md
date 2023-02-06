@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.A. in Cognitive Science, Computer Science (minor), 2019
+* B.A. in Cognitive Science, Computer Science (minor), University of California at Berkeley, 2019
 * M.S. in  Psychological Sciences, University of Connecticut, 2021
 * Ph.D in  Psychological Sciences, University of Connecticut, 2024 (expected)
 
