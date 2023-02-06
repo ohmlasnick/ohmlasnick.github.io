@@ -47,14 +47,15 @@ Teaching
   
 Technical Skills
 ======
-  *Programming Languages
+
+  Programming Languages
   ======
 * Python (Highly Proficient)
 * Java (Proficient)
 * C/C++ (Proficient)
 * *Some experience: SQL, Scheme, HTML
 
-  *Statistical Tools/Software
+  Statistical Tools/Software
   ======
 * SPSS (Highly Proficient)
 * R (Proficient)
