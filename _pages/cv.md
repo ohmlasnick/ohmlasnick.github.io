@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Cognitive Science, Computer Science (minor), 2019
+* M.S. in  Psychological Sciences, University of Connecticut, 2021
+* Ph.D in  Psychological Sciences, University of Connecticut, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 06/2018-05/2019: Undergraduate Research Assistant in Language & Cognitive Development Laboratory
+  * University of California, Berkeley
+  * Supervisor: Mahesh Srinivasan, Ph.D
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 08/2019-: Graduate Student in brainLENS (Learning, Engineering, & Neural Systems) Laboratory
+  * University of Connecticut
+  * Advisor: Fumiko Hoeft, M.D. Ph.D
 
 Publications
 ======
@@ -42,11 +31,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Selected Talks, Presentations & Posters
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[Flash Talk] Lasnick, O., Marrouch, N., Kamal, S., Low, S., Hoeft, F. Growth Charts for Functional Brain Networks in Reading Disorder. Neuromatch Conference, December 2021.
+[Poster] Lasnick, O., Marrouch, N., Kamal, S., Low, S., Hoeft, F. Growth charts for functional brain networks in dyslexia. University of Connecticut Poster Session, November 2021.
+[CANCELLED DUE TO COVID-19, Poster] Kamal, S., Lasnick, O., Low, S. Growth Charts for Functional Brain Networks in Neurodevelopmental Disorders. American Psychiatric Association (APA) Annual Meeting in Philadelphia, April 2020.
   
 Teaching
 ======
@@ -54,6 +43,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Technical Skills
 ======
-* Currently signed in to 43 different slack teams
+  Programming Languages
+* Python (Highly Proficient)
+* Java (Proficient)
+* C/C++ (Proficient)
+* Some experience: SQL, Scheme, HTML
+
+  Statistical Tools/Software
+* SPSS (Highly Proficient)
+* R (Proficient)
+* MATLAB (Proficient)
