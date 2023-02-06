@@ -50,7 +50,7 @@ Programming Languages
 * Python (Highly Proficient)
 * Java (Proficient)
 * C/C++ (Proficient)
-* *Some experience: SQL, Scheme, HTML
+* Some experience: SQL, Scheme, HTML
 
 Statistical Tools/Software
 ======
