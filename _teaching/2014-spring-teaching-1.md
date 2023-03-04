@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate-level course"
+permalink: /teaching/2021-spring-teaching-1
+venue: "University of Connecticut, Department of Psychological Sciences"
+date: 2021-01-01
+location: "Storrs, Connecticut"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+During the Spring 2021 semester at UConn, Oliver served as TA for a graduate-level course, PSYC 3503/5171 (taught by Professor Whitney Tabor), which taught modeling of cognitive processes and complex systems using the Python programming language. Student assignments and the final project consisted of regular programming exercises written in Python. 
+As part of his TA duties, Oliver held regular weekly office hours to assist students with assignments, graded assignments and final projects, and gave a guest lecture on the fundamentals of Python programming.
