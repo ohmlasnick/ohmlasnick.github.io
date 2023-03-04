@@ -83,10 +83,10 @@ author:
   name             : "About Me"
   avatar           : "headshot_2_10.png"
   bio              : "Oliver received his undergraduate B.A. degree in cognitive and computer science from the University of California, Berkeley in 2019. He then received his M.S. in Psychological Sciences from the University of Connecticut in 2021. He is currently a graduate student in the brainLENS Laboratory at the University of Connecticut, working towards his Ph.D. in language and cognition. His primary research interests are in the neurodevelopmental trajectories of learning disorders in language and reading, and in the analysis of large-scale neuroimaging and behavioral datasets."
-  location         : "Location"
+  location         : "Storrs, Connecticut"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"ohmlasnick"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/ohmlasnick/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
