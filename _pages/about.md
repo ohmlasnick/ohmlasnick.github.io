@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-He currently works for the [brainLENS (_L_earning, _E_ngineering, & _N_eural _S_ystems) Laboratory](https://www.brainlens.org/), 
+He currently works for the [brainLENS (*L*earning, *E*ngineering, & *N*eural *S*ystems) Laboratory](https://www.brainlens.org/), run by lab director Fumiko Hoeft (MD Ph.D), on several projects examining neurodevelopmental trajectories of developmental dyslexia. The lab uses multimodal brain imaging techniques and computational approaches to examine the underlying neural and cognitive processes of learning to read. In Oliver's work, he focuses primarily on the anatomical (MRI) and functional (EEG, fMRI) correlates of dyslexia, with a particular interest in functional connectivity, power spectrum analyses, and family history.
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
