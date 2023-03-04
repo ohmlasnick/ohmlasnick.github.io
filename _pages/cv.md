@@ -15,7 +15,7 @@ Education
 * M.S. in  Psychological Sciences, University of Connecticut, 2021
 * Ph.D in  Psychological Sciences, University of Connecticut, 2024 (expected)
 
-Work experience
+Academic research positions
 ======
 * 06/2018-05/2019: Undergraduate Research Assistant in Language & Cognitive Development Laboratory
   * University of California, Berkeley
@@ -37,7 +37,7 @@ Selected Talks, Presentations & Posters
 
 * [Poster] Lasnick, O., Marrouch, N., Kamal, S., Low, S., Hoeft, F. Growth charts for functional brain networks in dyslexia. University of Connecticut Poster Session, November 2021.
 
-* [CANCELLED DUE TO COVID-19, Poster] Kamal, S., Lasnick, O., Low, S. Growth Charts for Functional Brain Networks in Neurodevelopmental Disorders. American Psychiatric Association (APA) Annual Meeting in Philadelphia, April 2020.
+* [Poster] Kamal, S., Lasnick, O., Low, S. Growth Charts for Functional Brain Networks in Neurodevelopmental Disorders. American Psychiatric Association (APA) Annual Meeting in Philadelphia, April 2020. Conference cancelled due to Covid-19.
   
 Teaching
 ======
