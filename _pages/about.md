@@ -12,7 +12,7 @@ He currently works for the [brainLENS (*L*earning, *E*ngineering, & *N*eural *S*
 
 Thanks to all @ brainLENS & UConn for their ongoing support!
 
-/images/UCSF-Brain_Lens_Logo_1_(dark_bkg).png
+[](/images/UCSF-Brain_Lens_Logo_1_(dark_bkg).png)
 
 Affiliates
 ------
