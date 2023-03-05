@@ -1,6 +1,6 @@
 ---
 title: "Using machine learning models to construct growth charts of brain development, and to help identify functional brain network abnormality in dyslexia"
-excerpt: "An original research project which uses functional magnetic resonance imaging (fMRI) scans from children ages 6-13, taken during a naturalistic movie-watching paradigm, and constructs brain growth charts derived from functional connectivity matrices.<br/><img src='/images/PortfolioItem2.png'>"
+excerpt: "An original research project which uses functional magnetic resonance imaging (fMRI) scans from children ages 6-13, taken during a naturalistic movie-watching paradigm, and constructs brain growth charts derived from functional connectivity matrices.<br/><img src='/images/PortfolioItem2.png' alt='drawing' width='500'>"
 collection: portfolio
 ---
 
