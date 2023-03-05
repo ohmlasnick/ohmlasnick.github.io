@@ -1,6 +1,7 @@
 ---
 title: "Intrinsic temporal-lobe low-gamma power and its association with dyslexia"
-excerpt: "Work done as part of Oliver's Master's thesis at UConn, examining temporal lobe power and lateralization effects in the low-gamma frequency band.<br/><img src='/images/PortfolioItem1.png'>"
+excerpt: "Work done as part of Oliver's Master's thesis at UConn, examining temporal lobe power and lateralization effects in the low-gamma frequency band.<br/><img src='/images/PortfolioItem1.png' alt='drawing' width='500'>"
+
 collection: portfolio
 ---
 
