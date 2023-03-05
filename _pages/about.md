@@ -12,19 +12,20 @@ He currently works for the [brainLENS (*L*earning, *E*ngineering, & *N*eural *S*
 
 Thanks to all @ brainLENS & UConn for their ongoing support!
 
-![ ](/images/UCSF-Brain_Lens_Logo_1_(dark_bkg).png)
-![ ](/images/uconn-wordmark-stacked-blue.png) # UConn
+![ ](/images/UCSF-Brain_Lens_Logo_1_(white_bkg).png)
+![ ](/images/uconn-wordmark-stacked-blue.png)
 
 Affiliates
 ------
-![ ](/images/color_transparent.png) # BIRC
-![ ](/images/ucsf-logo-dark-blue.png) # UCSF
-![ ](/images/haskins_logo.png) # Haskins
+![ ](/images/color_transparent.png)
+![ ](/images/ucsf-logo-dark-blue.png)
+![ ](/images/haskins_logo.png)
 
 
 Current & past funding sources
 ------
 ![ ](/images/nih-logo-color.png)
+![ ](/images/NSF_Official_logo_High_Res_1200ppi.png)
 
 For more info
 ------
