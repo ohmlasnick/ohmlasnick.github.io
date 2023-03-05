@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-He currently works for the [brainLENS (*L*earning, *E*ngineering, & *N*eural *S*ystems) Laboratory](https://www.brainlens.org/), run by lab director Fumiko Hoeft (MD Ph.D), on several projects examining neurodevelopmental trajectories of developmental dyslexia. The lab uses multimodal brain imaging techniques and computational approaches to examine the underlying neural and cognitive processes of learning to read. In Oliver's work, he focuses primarily on the anatomical (MRI) and functional (EEG, fMRI) correlates of dyslexia, with a particular interest in functional connectivity, power spectrum analyses, and family history. Feel free to check out his [portfolio](https://ohmlasnick.github.io/portfolio/) for more info on current and past projects.
+He currently works for the [brainLENS (*L*earning, *E*ngineering, & *N*eural *S*ystems) Laboratory](https://www.brainlens.org/), run by lab director Fumiko Hoeft (MD Ph.D), on several projects examining neurodevelopmental trajectories of developmental dyslexia. The lab uses multimodal brain imaging techniques and computational approaches to examine the underlying neural and cognitive processes of learning to read. In Oliver's work, he focuses primarily on the anatomical (MRI) and functional (EEG, fMRI) correlates of dyslexia, with a particular interest in functional connectivity, power spectrum analyses, and family history. Feel free to check out his [portfolio](https://ohmlasnick.github.io/portfolio/) for more info on ongoing projects.
 
 Thanks to all @ brainLENS & UConn for their ongoing support!
 
