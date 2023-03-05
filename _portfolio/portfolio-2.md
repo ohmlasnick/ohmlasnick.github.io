@@ -1,1 +1,12 @@
+---
+title: "Using machine learning models to construct growth charts of brain development, and to help identify functional brain network abnormality in dyslexia"
+excerpt: "An original research project which uses functional magnetic resonance imaging (fMRI) scans from children ages 6-13, taken during a naturalistic movie-watching paradigm, and constructs brain growth charts derived from functional connectivity matrices.<br/><img src='/images/PortfolioItem2.png'>"
+collection: portfolio
+---
 
+*For this project, my colleagues and I use functional MRI scans from N = 742 children and adolescents to train a linear support vector regression model to predict 'brain-age', with functional connectivity matrices as training data and chronological age as training labels. The trained model predicts developmental maturity on the basis of connectivity data, allowing us to construct brain growth charts for typical and impaired readers. Fundamental questions include: Which connections between brain regions are driving age predictions, and is this in line with past results from general linear statistical models? And more importantly, do trained models show bias when predicting the ages of typical vs. impaired readers? Analyses are ongoing.*
+
+Professional activity associated with this project:
+* [Publication, in prep] Lasnick, O., Kamal, S., Marrouch, N., Low, S, Hoeft, F. Growth charts for functional brain networks in reading disorder. 
+* [Flash Talk] Lasnick, O., Marrouch, N., Kamal, S., Low, S., Hoeft, F. Growth Charts for Functional Brain Networks in Reading Disorder. Neuromatch Conference, December 2021.
+* [Poster] Kamal, S., Lasnick, O., Low, S. Growth Charts for Functional Brain Networks in Neurodevelopmental Disorders. American Psychiatric Association (APA) Annual Meeting in Philadelphia, April 2020. Cancelled due to Covid-19.
