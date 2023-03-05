@@ -17,15 +17,12 @@ Thanks to all @ brainLENS & UConn for their ongoing support!
 
 Affiliates
 ------
-![ ](/images/color_transparent.png)
-![ ](/images/ucsf-logo-dark-blue.png)
-![ ](/images/haskins_logo.png)
+<img src="/images/ucsf-logo-dark-blue.png" alt="drawing" width="300"/> <img src="/images/haskins_logo.png" alt="drawing" width="400"/> <img src="/images/color_transparent.png" alt="drawing" width="300"/>
 
 
 Current & past funding sources
 ------
-![ ](/images/nih-logo-color.png)
-![ ](/images/NSF_Official_logo_High_Res_1200ppi.png)
+<img src="/images/nih-logo-color.png" alt="drawing" width="750"/> <img src="/images/NSF_Official_logo_High_Res_1200ppi.png" alt="drawing" width="250"/>
 
 For more info
 ------
