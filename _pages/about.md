@@ -22,7 +22,7 @@ Affiliates
 
 Current & past funding sources
 ------
-<img src="/images/nih-logo-color.png" alt="drawing" width="750"/> <img src="/images/NSF_Official_logo_High_Res_1200ppi.png" alt="drawing" width="250"/>
+<img src="/images/nih-logo-color.png" alt="drawing" width="550"/> <img src="/images/NSF_Official_logo_High_Res_1200ppi.png" alt="drawing" width="150"/>
 
 For more info
 ------
