@@ -44,7 +44,7 @@ Funding sources
 
 *Fellowships - Not PI*
 ===
-* T32 Fellowship, National Institutes of Health Training Grant (NIH T32DC017703, Multi-PIs Eigsti/Myers), University of Connecticut Cognitive Neuroscience of Communication - Connecti- cut (CNC-CT), 2019-2021.
+* T32 Fellowship, National Institutes of Health Training Grant (NIH T32DC017703, Multi-PIs Eigsti/Myers), University of Connecticut Cognitive Neuroscience of Communication - Connecticut (CNC-CT), 2019-2021.
 
 * NRT Fellowship, National Science Foundation Research Traineeship (NRT-UtB 1735225, PI Magnuson), University of Connecticut Science of Learning and Art of Communication (SLAC), 2021-2022.
 
