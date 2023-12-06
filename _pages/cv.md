@@ -42,13 +42,13 @@ Selected talks, presentations & posters
 Funding sources
 ======
 
-Fellowships - Not PI
+*Fellowships - Not PI*
 ===
 * T32 Fellowship, National Institutes of Health Training Grant (NIH T32DC017703, Multi-PIs Eigsti/Myers), University of Connecticut Cognitive Neuroscience of Communication - Connecti- cut (CNC-CT), 2019-2021.
 
 * NRT Fellowship, National Science Foundation Research Traineeship (NRT-UtB 1735225, PI Magnuson), University of Connecticut Science of Learning and Art of Communication (SLAC), 2021-2022.
 
-Grants - PI
+*Grants - PI*
 ===
 * Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship (Parent F31), National Institutes of Health (NIH F31HD107944-01A1, PI Lasnick), Using Genetic Similarity Quantified by Kinship Coefficients to Investigate Familial Contributions to Reading Disorder, 2022-2024.
   
