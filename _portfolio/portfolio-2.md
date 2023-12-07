@@ -4,6 +4,10 @@ excerpt: "An original research project which uses functional magnetic resonance 
 collection: portfolio
 ---
 
+<p align="center">
+  <img src='/images/PortfolioItem2.png' alt='drawing' width='500'/>
+</p>
+
 *For this project, my colleagues and I use functional MRI scan data from N = 742 children and adolescents to train a linear support vector regression model to predict 'brain-age', with functional connectivity matrices as training data and chronological age as training labels. The model is constructed and trained - using Python's scikit-learn toolbox - to predict developmental maturity on the basis of functional connectivity data, allowing us to create brain growth charts for both typical and impaired readers. Fundamental questions include: Which connections between brain regions are driving age predictions, and is this in line with past results from general linear statistical models? And more importantly, do trained models show bias when predicting the ages of typical vs. impaired readers? Analyses have been completed, and the manuscript is currently in preparation for submission.*
 
 Professional activity associated with this project:
