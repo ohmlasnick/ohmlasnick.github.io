@@ -1,9 +1,9 @@
 ---
 title: "Modeling delays in neurodevelopmental maturity of the reading network using support vector regression on functional connectivity data."
 collection: publications
-permalink: /publication/2023-12-05-BGP
+permalink: /publication/XXXX-XX-XX-BGP
 excerpt: ''
-date: 2023-12-05
+date: XXXX-XX-XX
 venue: 'TBD'
 citation: '[In prep] Lasnick, O., Kamal, S., Marrouch, N., Low, S, Hoeft, F. Modeling delays in neurodevelopmental maturity of the reading network using support vector regression on functional connectivity data.'
 ---
