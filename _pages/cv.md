@@ -72,7 +72,8 @@ Statistical tools & software
 
 *PDF version:*
 ======
-<object data="/files/CV_12_04_2023.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/files/CV_12_04_2023.pdf">
+<object data="/files/CV_12_18_23.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/files/CV_12_18_23.pdf">
+      <p>Or click here to <a href="/files/CV_12_18_23.pdf">download Oliver Lasnick's CV</a>.</p>
     </embed>
 </object>
