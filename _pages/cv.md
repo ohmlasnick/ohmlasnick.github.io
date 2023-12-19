@@ -75,11 +75,3 @@ Statistical tools & software
 * SPSS (Highly Proficient)
 * R (Proficient)
 * MATLAB (Proficient)
-
-*PDF version:*
-======
-<p>Click here to <a href="/files/CV_12_18_23.pdf">download Oliver Lasnick's CV</a>.</p>
-<object data="/files/CV_12_18_23.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/files/CV_12_18_23.pdf">
-    </embed>
-</object>
