@@ -64,6 +64,12 @@ Programming languages
 * C/C++ (Proficient)
 * Some experience: SQL, Scheme, HTML
 
+Neuroimaging tools
+======
+* MRI/fMRI processing: FreeSurfer, FSL, fMRIPrep, CONN functional connectivity toolbox
+* EEG processing: EEGLAB, Automagic, MNE-Python
+* Data collection experience: MRI/fMRI, MRS
+
 Statistical tools & software
 ======
 * SPSS (Highly Proficient)
@@ -72,8 +78,8 @@ Statistical tools & software
 
 *PDF version:*
 ======
+<p>Click here to <a href="/files/CV_12_18_23.pdf">download Oliver Lasnick's CV</a>.</p>
 <object data="/files/CV_12_18_23.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/files/CV_12_18_23.pdf">
-      <p>Or click here to <a href="/files/CV_12_18_23.pdf">download Oliver Lasnick's CV</a>.</p>
     </embed>
 </object>
