@@ -142,9 +142,9 @@ Statistical tools & software
 Formatting
 ======
 
-<span style="background-color:   #ab7cfe; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
-   SPSS      
+<span style="background-color:   #1abe10; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   LaTeX      
 </span>
-<span style="background-color:   #fc8c98; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
-   R/RStudio       
+<span style="background-color:   #1abe10; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   Markdown       
 </span>
