@@ -63,17 +63,13 @@ Teaching
   
 Programming languages
 ======
-* Python (Highly Proficient)
-* Java (Proficient)
-* C/C++ (Proficient)
-* Some experience: SQL, Scheme, HTML
 
 <span style="background-color:  #fc8c98; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
    Python       
 </span>
 
 <span style="background-color: #fc8c98; color: white; padding: 10px; border-radius: 5px; margin-right: 10px; display: inline-block;">
-   R
+   R/RStudio
 </span>
 
 <span style="background-color: #fc8c98; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
@@ -98,12 +94,57 @@ Programming languages
 
 Neuroimaging tools
 ======
-* MRI/fMRI processing: FreeSurfer, FSL, fMRIPrep, CONN functional connectivity toolbox
-* EEG processing: EEGLAB, Automagic, MNE-Python
-* Data collection experience: MRI/fMRI, MRS
+
+<span style="background-color:   #2b9afc; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   MRI/fMRI/MRS (data collection)       
+</span>
+<span style="background-color:   #2b9afc; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   FreeSurfer       
+</span>
+<span style="background-color:   #2b9afc; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   FSL     
+</span>
+<span style="background-color:   #2b9afc; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   fMRIPrep       
+</span>
+<span style="background-color:   #2b9afc; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   CONN functional connectivity toolbox       
+</span>
+<span style="background-color:   #2b9afc; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   EEGLAB      
+</span>
+<span style="background-color:   #2b9afc; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   Automagic      
+</span>
+<span style="background-color:   #2b9afc; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   MNE-Python       
+</span>
 
 Statistical tools & software
 ======
-* SPSS (Highly Proficient)
-* R (Proficient)
-* MATLAB (Proficient)
+
+<span style="background-color:   #ab7cfe; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   SPSS      
+</span>
+<span style="background-color:   #fc8c98; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   R/RStudio       
+</span>
+<span style="background-color:   #ab7cfe; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   JASP     
+</span>
+<span style="background-color:   #ab7cfe; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   MATLAB      
+</span>
+<span style="background-color:   #ab7cfe; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   Microsoft Excel       
+</span>
+
+Formatting
+======
+
+<span style="background-color:   #ab7cfe; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   SPSS      
+</span>
+<span style="background-color:   #fc8c98; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   R/RStudio       
+</span>
