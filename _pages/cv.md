@@ -13,7 +13,7 @@ Education
 ======
 * B.A. in Cognitive Science, Computer Science (minor), University of California at Berkeley, 2019
 * M.S. in  Psychological Sciences, University of Connecticut, 2021
-* Ph.D in  Psychological Sciences, University of Connecticut, 2024 (expected)
+* Ph.D in  Psychological Sciences, University of Connecticut, 2024
 
 Academic research positions
 ======
@@ -33,23 +33,27 @@ Research projects & publications
   
 Selected talks, presentations & posters
 ======
+* [Poster, accepted] Lasnick, O., Luo, J., Kinnie, B., Kamal, S., Low, S., Marrouch, N., Hoeft, F. Do estimates of age based on functional connectivity differ as a function of reading ability? Organization for Human Brain Mapping (OHBM) Conference, June 2024.
+
+* [Poster, accepted] Lasnick, O., Hoeft, F. Behavioral and cortical profiles for family history of dyslexia using binary, continuous, and genetic kinship approaches. Cognitive Neuroscience Society (CNS) Annual Meeting, April 2024.
+
 * [Poster] Clement-Lam, S. S.-Y., *Lasnick, O.*, Mitra, A., Kinnie, B., Lyon, C., Luo, J., Kearns, D., Hoeft, F. ERP studies of reading in relation to developmental dyslexia: a systematic review. FLUX: The Society for Developmental Cognitive Neuroscience Conference, September 2023.
 
 * [Flash Talk] *Lasnick, O.*, Marrouch, N., Kamal, S., Low, S., Hoeft, F. Growth Charts for Functional Brain Networks in Reading Disorder. Neuromatch Conference, December 2021.
 
 * [Poster] Kamal, S., *Lasnick, O.*, Low, S. Growth Charts for Functional Brain Networks in Neurodevelopmental Disorders. American Psychiatric Association (APA) Annual Meeting in Philadelphia, April 2020. Conference cancelled due to Covid-19.
 
-Funding sources
+Awards, fellowships, & grants
 ======
-*Fellowships - Not PI*
--
-* T32 Fellowship, National Institutes of Health Training Grant (NIH T32DC017703, Multi-PIs Eigsti/Myers), University of Connecticut Cognitive Neuroscience of Communication - Connecticut (CNC-CT), 2019-2021.
+*2022 – 2024*, F31HD107944 (PI Lasnick). Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship (Parent F31), National Institutes of Health. "Using genetic similarity quantified by kinship coefficients to investigate familial contributions to reading disorder".
 
-* NRT Fellowship, National Science Foundation Research Traineeship (NRT-UtB 1735225, PI Magnuson), University of Connecticut Science of Learning and Art of Communication (SLAC), 2021-2022.
+Total awarded: $83,404
+              
+*2021 – 2022*, NRT-UtB 1735225 (PI Magnuson). National Science Foundation Research Traineeship, National Science Foundation. "Science of learning, from neurobiology to real-world application: a problem-based approach (SLAC program)".
 
-*Grants - PI*
--
-* Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship (Parent F31), National Institutes of Health (NIH F31HD107944-01A1, PI Lasnick), Using Genetic Similarity Quantified by Kinship Coefficients to Investigate Familial Contributions to Reading Disorder, 2022-2024.
+*2019 – 2021*, T32DC017703 (Multi-PIs Eigsti/Myers). National Institutes of Health Training Grant, National Institutes of Health. "University of Connecticut Cognitive Neuroscience of Communication – Connecticut (CNC-CT): Training in the Cognitive Neuroscience of Communication".
+
+*2015 – 2019*, UC Berkeley Undergraduate Scholarship. Awarded based on entering with a high school GPA of at least 4.1; awarded during continuing semesters with at least a 3.5 university GPA.
   
 Teaching
 ======
@@ -63,6 +67,34 @@ Programming languages
 * Java (Proficient)
 * C/C++ (Proficient)
 * Some experience: SQL, Scheme, HTML
+
+<span style="background-color:  #fc8c98; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   Python       
+</span>
+
+<span style="background-color: #fc8c98; color: white; padding: 10px; border-radius: 5px; margin-right: 10px; display: inline-block;">
+   R
+</span>
+
+<span style="background-color: #fc8c98; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+  SQL/MySQL
+</span>
+
+<span style="background-color:  #fc8c98; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   Java
+</span>
+
+<span style="background-color: #fc8c98; color: white; padding: 10px; border-radius: 5px; margin-right: 10px; display: inline-block;">
+   C/C++
+</span>
+
+<span style="background-color: #fc8c98; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   Scheme
+</span>
+
+<span style="background-color: #fc8c98; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+   HTML
+</span>
 
 Neuroimaging tools
 ======
