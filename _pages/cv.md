@@ -64,87 +64,81 @@ Teaching
 Programming languages
 ======
 
-<span style="background-color:  #fc8c98; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:  #fc8c98; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    Python       
 </span>
-
-<span style="background-color: #fc8c98; color: white; padding: 10px; border-radius: 5px; margin-right: 10px; display: inline-block;">
+<span style="background-color: #fc8c98; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    R/RStudio
 </span>
-
-<span style="background-color: #fc8c98; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color: #fc8c98; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
   SQL/MySQL
 </span>
-
-<span style="background-color:  #fc8c98; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:  #fc8c98; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    Java
 </span>
-
-<span style="background-color: #fc8c98; color: white; padding: 10px; border-radius: 5px; margin-right: 10px; display: inline-block;">
+<span style="background-color: #fc8c98; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    C/C++
 </span>
-
-<span style="background-color: #fc8c98; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color: #fc8c98; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    Scheme
 </span>
-
-<span style="background-color: #fc8c98; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color: #fc8c98; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    HTML
 </span>
 
 Neuroimaging tools
 ======
 
-<span style="background-color:   #2b9afc; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:   #2b9afc; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    MRI/fMRI/MRS (data collection)       
 </span>
-<span style="background-color:   #2b9afc; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:   #2b9afc; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    FreeSurfer       
 </span>
-<span style="background-color:   #2b9afc; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:   #2b9afc; color: white; padding: 7px; border-radius: 5px; display: inline-block;">
    FSL     
 </span>
-<span style="background-color:   #2b9afc; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:   #2b9afc; color: white; padding: 7px; border-radius: 5px; display: inline-block;">
    fMRIPrep       
 </span>
-<span style="background-color:   #2b9afc; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:   #2b9afc; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    CONN functional connectivity toolbox       
 </span>
-<span style="background-color:   #2b9afc; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:   #2b9afc; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    EEGLAB      
 </span>
-<span style="background-color:   #2b9afc; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:   #2b9afc; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    Automagic      
 </span>
-<span style="background-color:   #2b9afc; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:   #2b9afc; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    MNE-Python       
 </span>
 
 Statistical tools & software
 ======
 
-<span style="background-color:   #ab7cfe; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:   #ab7cfe; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    SPSS      
 </span>
-<span style="background-color:   #fc8c98; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:   #fc8c98; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    R/RStudio       
 </span>
-<span style="background-color:   #ab7cfe; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:   #ab7cfe; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    JASP     
 </span>
-<span style="background-color:   #ab7cfe; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:   #ab7cfe; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    MATLAB      
 </span>
-<span style="background-color:   #ab7cfe; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:   #ab7cfe; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
    Microsoft Excel       
 </span>
 
 Formatting
 ======
 
-<span style="background-color:   #1abe10; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:   #1abe10; color: white; padding: 7px; border-radius: 5px; display: inline-block;">
    LaTeX      
 </span>
-<span style="background-color:   #1abe10; color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+<span style="background-color:   #1abe10; color: white; padding: 7px; border-radius: 5px; display: inline-block;">
    Markdown       
 </span>
