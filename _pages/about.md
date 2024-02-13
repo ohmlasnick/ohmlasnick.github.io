@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Oliver is currently a graduate student at the University of Connecticut, working at the forefront of interdisciplinary research in neuroimaging and translational neuroscience"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
