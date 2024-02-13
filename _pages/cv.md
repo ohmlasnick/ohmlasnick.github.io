@@ -11,37 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.A. in Cognitive Science, Computer Science (minor), University of California at Berkeley, 2019
-* M.S. in  Psychological Sciences, University of Connecticut, 2021
-* Ph.D in  Psychological Sciences, University of Connecticut, 2024
+**PhD in  Language & Cognition (Psychological Sciences)**   
+*University of Connecticut*  
+2021 - 2024
 
-Academic research positions
+**MSc in  Language & Cognition (Psychological Sciences)**  
+*University of Connecticut*  
+2019 - 2021
+
+**BA in Cognitive Science, Computer Science**    
+*University of California at Berkeley*  
+2015 - 2019
+
+Experience
 ======
-* June 2018 to May 2019: Undergraduate Research Assistant in Language & Cognitive Development Laboratory
-  * University of California, Berkeley
-  * Supervisor: Mahesh Srinivasan, Ph.D
+Researcher (PhD-track) @ brainLENS (Learning, Engineering, & Neural Systems) Laboratory, University of Connecticut  
+Supervisor: Fumiko Hoeft, MD PhD  
+2019 - Present
 
-* August 2019 to current: Graduate Student in brainLENS (Learning, Engineering, & Neural Systems) Laboratory
-  * University of Connecticut
-  * Advisor: Fumiko Hoeft, M.D. Ph.D
+Research Assistant @ Language & Cognitive Development Laboratory, UC Berkeley  
+Supervisor: Mahesh Srinivasan, PhD  
+2018 - 2019
 
-Research projects & publications
+Projects & publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Selected talks, presentations & posters
+Selected talks, presentations, & posters
 ======
-* [Poster, accepted] Lasnick, O., Luo, J., Kinnie, B., Kamal, S., Low, S., Marrouch, N., Hoeft, F. Do estimates of age based on functional connectivity differ as a function of reading ability? Organization for Human Brain Mapping (OHBM) Conference, June 2024.
+[Poster, accepted] *Lasnick, O.*, Luo, J., Kinnie, B., Kamal, S., Low, S., Marrouch, N., Hoeft, F. Do estimates of age based on functional connectivity differ as a function of reading ability? Organization for Human Brain Mapping (OHBM) Conference, June 2024.
 
-* [Poster, accepted] Lasnick, O., Hoeft, F. Behavioral and cortical profiles for family history of dyslexia using binary, continuous, and genetic kinship approaches. Cognitive Neuroscience Society (CNS) Annual Meeting, April 2024.
+[Poster, accepted] *Lasnick, O.*, Hoeft, F. Behavioral and cortical profiles for family history of dyslexia using binary, continuous, and genetic kinship approaches. Cognitive Neuroscience Society (CNS) Annual Meeting, April 2024.
 
-* [Poster] Clement-Lam, S. S.-Y., *Lasnick, O.*, Mitra, A., Kinnie, B., Lyon, C., Luo, J., Kearns, D., Hoeft, F. ERP studies of reading in relation to developmental dyslexia: a systematic review. FLUX: The Society for Developmental Cognitive Neuroscience Conference, September 2023.
+[Poster] Clement-Lam, S. S.-Y., *Lasnick, O.*, Mitra, A., Kinnie, B., Lyon, C., Luo, J., Kearns, D., Hoeft, F. ERP studies of reading in relation to developmental dyslexia: a systematic review. FLUX: The Society for Developmental Cognitive Neuroscience Conference, September 2023.
 
-* [Flash Talk] *Lasnick, O.*, Marrouch, N., Kamal, S., Low, S., Hoeft, F. Growth Charts for Functional Brain Networks in Reading Disorder. Neuromatch Conference, December 2021.
+[Flash Talk] *Lasnick, O.*, Marrouch, N., Kamal, S., Low, S., Hoeft, F. Growth Charts for Functional Brain Networks in Reading Disorder. Neuromatch Conference, December 2021.
 
-* [Poster] Kamal, S., *Lasnick, O.*, Low, S. Growth Charts for Functional Brain Networks in Neurodevelopmental Disorders. American Psychiatric Association (APA) Annual Meeting in Philadelphia, April 2020. Conference cancelled due to Covid-19.
+[Poster] Kamal, S., *Lasnick, O.*, Low, S. Growth Charts for Functional Brain Networks in Neurodevelopmental Disorders. American Psychiatric Association (APA) Annual Meeting in Philadelphia, April 2020. Conference cancelled due to Covid-19.
 
 Awards, fellowships, & grants
 ======
@@ -55,20 +63,69 @@ Total awarded: $83,404
 
 *2015 – 2019*, UC Berkeley Undergraduate Scholarship. Awarded based on entering with a high school GPA of at least 4.1; awarded during continuing semesters with at least a 3.5 university GPA.
   
-Teaching
+Teaching experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+General skills & technical knowledge
+======
+
+<span style="background-color:  #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
+   Data analysis       
+</span>
+<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
+   Data visualization 
+</span>
+<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
+  Big data
+</span>
+<span style="background-color:  #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
+   Programming
+</span>
+<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
+   High-performance computing
+</span>
+<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
+   Project management
+</span>
+<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
+   Docker containers 
+</span>
+<span style="background-color:  #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
+   Writing reports       
+</span>
+<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
+   Computational & statistical modeling 
+</span>
+<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
+  Behavioral assessment & psychometrics
+</span>
+<span style="background-color:  #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
+   Machine learning
+</span>
+<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
+   Database management
+</span>
+<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
+   Testing (unit tests & integration tests)
+</span>
+<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
+   Data quality assessment 
+</span>
+  <span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
+   Version control (Git) 
+</span>
+
 Programming languages
 ======
 
 <span style="background-color:  #fc8c98; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-   Python       
+   Python (numpy, scikit-learn, scipy, pandas)       
 </span>
 <span style="background-color: #fc8c98; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-   R/RStudio
+   R/RStudio (ggplot2)
 </span>
 <span style="background-color: #fc8c98; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
   SQL/MySQL
@@ -133,11 +190,14 @@ Statistical tools & software
    Microsoft Excel       
 </span>
 
-Formatting
+Other
 ======
 
 <span style="background-color:   #1abe10; color: white; padding: 7px; border-radius: 5px; display: inline-block;">
    LaTeX      
+</span>
+<span style="background-color:   #1abe10; color: white; padding: 7px; border-radius: 5px; display: inline-block;">
+   Regex       
 </span>
 <span style="background-color:   #1abe10; color: white; padding: 7px; border-radius: 5px; display: inline-block;">
    Markdown       
