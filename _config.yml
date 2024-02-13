@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oliver Lasnick, B.A. M.S."
+title                    : "Oliver Lasnick"
 title_separator          : "-"
 name                     : &name "University of Connecticut"
 description              : &description "Professional website of Oliver Lasnick."
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "About Me"
   avatar           : "headshot_2_10.png"
-  bio              : "Oliver received his undergraduate B.A. degree in cognitive and computer science from the University of California, Berkeley in 2019. He then received his M.S. in Psychological Sciences from the University of Connecticut in 2021. He is currently a graduate student in the brainLENS Laboratory at the University of Connecticut, working towards his Ph.D. in language and cognition. His primary research interests are in the neurodevelopmental trajectories of learning disorders in language and reading, and in the analysis of large-scale neuroimaging and behavioral datasets."
+  bio              : "Oliver received his undergraduate degree in cognitive and computer science from the University of California, Berkeley in 2019. He then received his MSc in Language & Cognition from the University of Connecticut in 2021. He currently works in the brainLENS Lab at the University of Connecticut, with his PhD dissertation (also in Language & Cognition) nearing completion. For his current projects, Oliver analyzes both behavioral and large-scale neuroimaging (EEG, MRI/fMRI) datasets."
   location         : "Storrs, Connecticut"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
