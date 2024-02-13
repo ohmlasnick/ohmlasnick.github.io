@@ -72,52 +72,6 @@ Teaching experience
 General skills & technical knowledge
 ======
 
-<span style="background-color:  #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-   Data analysis       
-</span>
-<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-   Data visualization 
-</span>
-<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-  Big data
-</span>
-<span style="background-color:  #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-   Programming
-</span>
-<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-   High-performance computing
-</span>
-<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-   Project management
-</span>
-<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-   Docker containers 
-</span>
-<span style="background-color:  #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-   Writing reports       
-</span>
-<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-   Computational & statistical modeling 
-</span>
-<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-  Behavioral assessment & psychometrics
-</span>
-<span style="background-color:  #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-   Machine learning
-</span>
-<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-   Database management
-</span>
-<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-   Testing (unit tests & integration tests)
-</span>
-<span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-   Data quality assessment 
-</span>
-  <span style="background-color: #9b9b9b; color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-   Version control (Git) 
-</span>
-
 Programming languages
 ======
 
