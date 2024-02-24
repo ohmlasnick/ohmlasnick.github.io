@@ -36,6 +36,6 @@ def simulate():
 
 See the simulator in action (with a platform!):
 
-<video width="500" controls autoplay>
+<video width="500" class="center" controls autoplay>
     <source src="/files/simulation_with_platform.mov" type="video/mp4">
 </video>
