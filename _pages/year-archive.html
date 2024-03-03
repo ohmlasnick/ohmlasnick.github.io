@@ -5,7 +5,7 @@ title: "Coding projects"
 author_profile: true
 ---
 <head>
-	<script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
+	<script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js?lang=r;skin=desert"></script>
 </head>
 
 <body>
@@ -14,7 +14,7 @@ author_profile: true
 	
 	<p>Written for / inspired by Day #14 of <a href="https://adventofcode.com/2022/day/14">Advent of Code 2022.</a> Full code can be found on <a href="https://github.com/ohmlasnick/Sand_Simulator">GitHub.</a> The main simulator function uses custom classes <code>Map</code> and <code>Sand</code> to track the trajectory and location of each particle. You can also change the dimensions of the map and choose whether or not to include a platform.</p>
 	
-	<pre>
+	<pre class="prettyprint">
 	def simulate():
 		my_map = Map(dims=[10, 21], floor=True, platform=False)
 		my_map.show_map()
@@ -59,7 +59,7 @@ author_profile: true
 
 	<p>Code section for how to create each frame of the animation (the whole script is available on <a href="https://github.com/ohmlasnick/Air_pollution_visual/tree/main">GitHub</a>):</p>
 	
-	<pre>
+	<pre class="prettyprint lang-r">
 	create_frame <- function(start, end, month=FALSE) {
 	  
 	  year <- substr(start, 1, 4)
