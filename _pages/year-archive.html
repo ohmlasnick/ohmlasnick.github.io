@@ -73,7 +73,8 @@ author_profile: true
 	    mo <- ''
 	  }
 	  
-	  air_pollution_timeline <- subset(air_pollution_df, start <= numeric_date & numeric_date < end)						  
+	  air_pollution_timeline <- subset(air_pollution_df, start <= numeric_date 
+		  & numeric_date < end)						  
 	  air_pollution_reduced <- select(air_pollution_timeline, c('fips', 'values'))
 	  average_pm25 <- aggregate(values ~ fips, air_pollution_reduced, mean)
 	  
