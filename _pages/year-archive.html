@@ -90,16 +90,42 @@ author_profile: true
 	}
 	</pre>
 
-<p><strong>2D spaceship game in Java</strong></p>
+	<p><strong>2D spaceship game in Java</strong></p>
+	
+	<p>Below is a video of gameplay for a 2D game I created in Java. For the individual sprites, the game makes use of a basic <code>Character</code> class, along with <code>Player</code>, <code>Enemy</code>, and <code>Bomber</code> classes that inherit many of the <code>Character</code> methods and attributes in order to create unique behavior. The <code>Player</code> class in particular accepts user input in order to move the sprite and fire (as well as starting the game).</p>
+		  
+	<p>The explosion, enemy, bomber (and bombs), and player sprites are based on images generated using Craiyon LLC's AI art generator model on craiyon.com. Laser sprites are made by me!</p>
+	
+	<center>
+		<video width="750" class="center" controls autoplay>
+	    		<source src="/files/JavaGameplay.mov" type="video/mp4">
+		</video>
+	</center>
 
-<p>Below is a video of gameplay for a 2D game I created in Java. For the individual sprites, the game makes use of a basic <code>Character</code> class, along with <code>Player</code>, <code>Enemy</code>, and <code>Bomber</code> classes that inherit many of the <code>Character</code> methods and attributes in order to create unique behavior. The <code>Player</code> class in particular accepts user input in order to move the sprite and fire (as well as starting the game).</p>
+	<p>Below is the class method for checking whether a sprite has been hit by enemy gunfire, used by all classes that inherit from the <code>Character</code> class. Code for the other classes is available on <a href="https://github.com/ohmlasnick/SpaceAdversaries">GitHub.</a></p>
 
-<p>The explosion, enemy, bomber (and bombs), and player sprites are based on images generated using Craiyon LLC's AI art generator model on craiyon.com. Laser sprites are made by me!</p>
-
-<center>
-	<video width="750" class="center" controls autoplay>
-    		<source src="/files/JavaGameplay.mov" type="video/mp4">
-	</video>
-</center>
+	<pre class="prettyprint">
+		public boolean inHitbox() {
+		
+		// Check if character is within bounding box of enemy gunfire
+		for (Gunfire f : disp.fireballs) {
+			if ((f.owner.getClass() == Enemy.class & this.getClass() == Enemy.class) |
+					(f.owner.getClass() == Bomber.class & this.getClass() == Enemy.class) |
+					(f.owner.getClass() == Enemy.class & this.getClass() == Bomber.class) |
+					(f.owner.getClass() == Bomber.class & this.getClass() == Bomber.class)) {
+				continue;
+			}
+			if (f.pos_x - (disp.tileSize / 4) < pos_x & 
+					pos_x < f.pos_x + (disp.tileSize / 4) &
+					f.pos_y - (disp.tileSize / 4) < pos_y & 
+					pos_y < f.pos_y + (disp.tileSize / 4)) {
+				f.moveCorpse();
+				f.velocity = 0;
+				return true;
+			}
+		}
+		return false;
+	}
+	</pre>
 		  
 </body>
