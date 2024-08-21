@@ -26,17 +26,17 @@ Education
 Research Experience
 ======
 Researcher @ Stanford Cognitive & Systems Neuroscience Laboratory, Stanford University
-
+===
 Supervisor: Vinod Menon, PhD  
 2024 - Present
 
 Researcher (PhD-track) @ brainLENS (Learning, Engineering, & Neural Systems) Laboratory, University of Connecticut  
-
+===
 Supervisor: Fumiko Hoeft, MD PhD  
 2019 - 2024
 
 Research Assistant @ Language & Cognitive Development Laboratory, UC Berkeley  
-
+===
 Supervisor: Mahesh Srinivasan, PhD  
 2018 - 2019
 
