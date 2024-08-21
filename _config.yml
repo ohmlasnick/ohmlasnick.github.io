@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oliver Lasnick"
+title                    : "O.H.M. Lasnick"
 title_separator          : "-"
-name                     : &name "University of Connecticut"
-description              : &description "Professional website of Oliver Lasnick."
+name                     : &name "Stanford University"
+description              : &description "Professional website of O.H.M. Lasnick."
 url                      : https://ohmlasnick.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ohmlasnick/ohmlasnick.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "About Me"
   avatar           : "headshot_2_10.png"
-  bio              : "Oliver received his undergraduate degree in cognitive and computer science from the University of California, Berkeley in 2019. He then received his MSc in Language & Cognition from the University of Connecticut in 2021. He currently works in the brainLENS Lab at the University of Connecticut, with his PhD dissertation (also in Language & Cognition) nearing completion. For his current projects, Oliver analyzes both behavioral and large-scale neuroimaging (EEG, MRI/fMRI) datasets."
-  location         : "Storrs, Connecticut"
+  bio              : "Received an undergraduate degree in cognitive and computer science from the University of California, Berkeley in 2019; an MSc in Language & Cognition (L&C) from UConn in 2021; and a Ph.D in L&C from UConn in 2024. Past & current work focuses on the analysis of behavioral and large-scale neuroimaging (EEG, MRI/fMRI) datasets."
+  location         : "Stanford, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
