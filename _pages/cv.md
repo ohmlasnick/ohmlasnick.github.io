@@ -23,11 +23,15 @@ Education
 *University of California at Berkeley*  
 2015 - 2019
 
-Experience
+Research Experience
 ======
+Researcher @ Stanford Cognitive & Systems Neuroscience Laboratory, Stanford University 
+Supervisor: Vinod Menon, PhD  
+2024 - Present
+
 Researcher (PhD-track) @ brainLENS (Learning, Engineering, & Neural Systems) Laboratory, University of Connecticut  
 Supervisor: Fumiko Hoeft, MD PhD  
-2019 - Present
+2019 - 2024
 
 Research Assistant @ Language & Cognitive Development Laboratory, UC Berkeley  
 Supervisor: Mahesh Srinivasan, PhD  
@@ -41,13 +45,13 @@ Projects & publications
   
 Selected talks, presentations, & posters
 ======
-[Poster, accepted] *Lasnick, O.*, Luo, J., Kinnie, B., Kamal, S., Low, S., Marrouch, N., Hoeft, F. Do estimates of age based on functional connectivity differ as a function of reading ability? Organization for Human Brain Mapping (OHBM) Conference, June 2024.
+[Poster, accepted] *Lasnick, O.*, Luo, J., Kinnie, B., Kamal, S., Low, S., Marrouch, N., Hoeft, F. Do estimates of age based on functional connectivity differ as a function of reading ability? Organization for Human Brain Mapping (OHBM) Conference in Seoul, June 2024.
 
-[Poster, accepted] *Lasnick, O.*, Hoeft, F. Behavioral and cortical profiles for family history of dyslexia using binary, continuous, and genetic kinship approaches. Cognitive Neuroscience Society (CNS) Annual Meeting, April 2024.
+[Poster, accepted] *Lasnick, O.*, Hoeft, F. Behavioral and cortical profiles for family history of dyslexia using binary, continuous, and genetic kinship approaches. Cognitive Neuroscience Society (CNS) Annual Meeting in Toronto, April 2024.
 
-[Poster] Clement-Lam, S. S.-Y., *Lasnick, O.*, Mitra, A., Kinnie, B., Lyon, C., Luo, J., Kearns, D., Hoeft, F. ERP studies of reading in relation to developmental dyslexia: a systematic review. FLUX: The Society for Developmental Cognitive Neuroscience Conference, September 2023.
+[Poster] Clement-Lam, S. S.-Y., *Lasnick, O.*, Mitra, A., Kinnie, B., Lyon, C., Luo, J., Kearns, D., Hoeft, F. ERP studies of reading in relation to developmental dyslexia: a systematic review. FLUX: The Society for Developmental Cognitive Neuroscience Conference in Santa Rosa, September 2023.
 
-[Flash Talk] *Lasnick, O.*, Marrouch, N., Kamal, S., Low, S., Hoeft, F. Growth Charts for Functional Brain Networks in Reading Disorder. Neuromatch Conference, December 2021.
+[Flash Talk] *Lasnick, O.*, Marrouch, N., Kamal, S., Low, S., Hoeft, F. Growth Charts for Functional Brain Networks in Reading Disorder. Neuromatch Conference (online), December 2021.
 
 [Poster] Kamal, S., *Lasnick, O.*, Low, S. Growth Charts for Functional Brain Networks in Neurodevelopmental Disorders. American Psychiatric Association (APA) Annual Meeting in Philadelphia, April 2020. Conference cancelled due to Covid-19.
 
