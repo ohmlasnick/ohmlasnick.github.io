@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Oliver currently works at the University of Connecticut"
+title: "Oliver currently works in the Stanford Cognitive & Systems Neuroscience Laboratory"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-In the [brainLENS (*L*earning, *E*ngineering, & *N*eural *S*ystems) Laboratory](https://www.brainlens.org/), run by lab director Fumiko Hoeft (MD PhD), Oliver works on several projects. The lab uses multimodal brain imaging techniques and computational approaches to examine the underlying neural and cognitive processes of reading and language. Oliver's projects focus primarily on the anatomical (MRI) and functional (EEG, fMRI) correlates of developmental dyslexia. Feel free to check out his [portfolio](https://ohmlasnick.github.io/portfolio/) for more info on ongoing projects.
+Oliver recently joined Stanford University's [Cognitive & Systems Neuroscience Laboratory (SCSNL)](https://med.stanford.edu/scsnl/research.html), run by Professor Vinod Menon. For info on the lab's past work and current/ongoing projects, take a look at their website!
+
+From 2019-2024, Oliver worked in the [brainLENS (*L*earning, *E*ngineering, & *N*eural *S*ystems) Laboratory](https://www.brainlens.org/), run by Professor Fumiko Hoeft. The lab uses multimodal brain imaging techniques and computational approaches to examine the underlying neural and cognitive processes of reading and language. Oliver's projects focused primarily on the anatomical (MRI) and functional (EEG, fMRI) correlates of developmental dyslexia. Feel free to check out this [portfolio](https://ohmlasnick.github.io/portfolio/) for more info on past projects.
 
 ![ ](/images/UCSF-Brain_Lens_Logo_1_(white_bkg).png)
 ![ ](/images/uconn-wordmark-stacked-blue.png)
