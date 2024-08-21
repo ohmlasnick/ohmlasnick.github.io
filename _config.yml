@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "About Me"
-  avatar           : "headshot_2_10.png"
+  avatar           : "headshot_2_10.jpg"
   bio              : "Received an undergraduate degree in cognitive and computer science from the University of California, Berkeley in 2019; an MSc in Language & Cognition (L&C) from UConn in 2021; and a Ph.D in L&C from UConn in 2024. Past & current work focuses on the analysis of behavioral and large-scale neuroimaging (EEG, MRI/fMRI) datasets."
   location         : "Stanford, California"
   employer         :
