@@ -9,7 +9,7 @@ redirect_from:
 
 I recently joined Stanford University's [Cognitive & Systems Neuroscience Laboratory (SCSNL)](https://med.stanford.edu/scsnl/research.html), run by Professor Vinod Menon. For info on the lab's past work and current/ongoing projects, take a look at their website!
 
-From 2019-2024, I worked in the [brainLENS (*L*earning, *E*ngineering, & *N*eural *S*ystems) Laboratory](https://www.brainlens.org/), run by Professor Fumiko Hoeft. The lab uses multimodal brain imaging techniques and computational approaches to examine the underlying neural and cognitive processes of reading and language. My projects focused primarily on the anatomical (MRI) and functional (EEG, fMRI) correlates of developmental dyslexia. Feel free to check out this [portfolio](https://ohmlasnick.github.io/portfolio/) for more info on past projects.
+From 2019-2024, I worked with Professor Fumiko Hoeft at the University of Connecticut. Dr. Hoeft's lab uses multimodal brain imaging techniques and computational approaches to examine the underlying neural and cognitive processes of reading and language. My projects focused primarily on the anatomical (MRI) and functional (EEG, fMRI) correlates of developmental dyslexia. Feel free to check out this [portfolio](https://ohmlasnick.github.io/portfolio/) for more info on past projects.
 
 ![ ](/images/UCSF-Brain_Lens_Logo_1_(white_bkg).png)
 ![ ](/images/uconn-wordmark-stacked-blue.png)
