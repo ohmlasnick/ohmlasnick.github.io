@@ -1,6 +1,6 @@
 ---
 title: "Using Genetic Similarity Quantified by Kinship Coefficients to Investigate Familial Contributions to Reading Disorder"
-excerpt: "Oliver's ongoing dissertation project concerns the unique contribution of family history of reading disability to
+excerpt: "My dissertation project concerns the unique contribution of family history of reading disability to
 children's own reading outcomes and cortical morphometry.<br/><img src='/images/PortfolioItem1.png' alt='drawing' width='500'>"
 collection: portfolio
 ---
