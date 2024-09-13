@@ -56,10 +56,6 @@ Selected talks, presentations, & posters
 
 [Poster] Clement-Lam, S. S.-Y., *Lasnick, O.*, Mitra, A., Kinnie, B., Lyon, C., Luo, J., Kearns, D., Hoeft, F. ERP studies of reading in relation to developmental dyslexia: a systematic review. FLUX: The Society for Developmental Cognitive Neuroscience Conference in Santa Rosa, September 2023.
 
-[Flash Talk] *Lasnick, O.*, Marrouch, N., Kamal, S., Low, S., Hoeft, F. Growth Charts for Functional Brain Networks in Reading Disorder. Neuromatch Conference (online), December 2021.
-
-[Poster] Kamal, S., *Lasnick, O.*, Low, S. Growth Charts for Functional Brain Networks in Neurodevelopmental Disorders. American Psychiatric Association (APA) Annual Meeting in Philadelphia, April 2020. Conference cancelled due to Covid-19.
-
 Awards, fellowships, & grants
 ======
 *2022 – 2024*, F31HD107944 (PI Lasnick). Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship (Parent F31), National Institutes of Health. "Using genetic similarity quantified by kinship coefficients to investigate familial contributions to reading disorder".
