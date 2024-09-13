@@ -50,9 +50,9 @@ Projects & publications
   
 Selected talks, presentations, & posters
 ======
-[Poster, accepted] *Lasnick, O.*, Luo, J., Kinnie, B., Kamal, S., Low, S., Marrouch, N., Hoeft, F. Do estimates of age based on functional connectivity differ as a function of reading ability? Organization for Human Brain Mapping (OHBM) Conference in Seoul, June 2024.
+[Poster] *Lasnick, O.*, Luo, J., Kinnie, B., Kamal, S., Low, S., Marrouch, N., Hoeft, F. Do estimates of age based on functional connectivity differ as a function of reading ability? Organization for Human Brain Mapping (OHBM) Conference in Seoul, June 2024.
 
-[Poster, accepted] *Lasnick, O.*, Hoeft, F. Behavioral and cortical profiles for family history of dyslexia using binary, continuous, and genetic kinship approaches. Cognitive Neuroscience Society (CNS) Annual Meeting in Toronto, April 2024.
+[Poster] *Lasnick, O.*, Hoeft, F. Behavioral and cortical profiles for family history of dyslexia using binary, continuous, and genetic kinship approaches. Cognitive Neuroscience Society (CNS) Annual Meeting in Toronto, April 2024.
 
 [Poster] Clement-Lam, S. S.-Y., *Lasnick, O.*, Mitra, A., Kinnie, B., Lyon, C., Luo, J., Kearns, D., Hoeft, F. ERP studies of reading in relation to developmental dyslexia: a systematic review. FLUX: The Society for Developmental Cognitive Neuroscience Conference in Santa Rosa, September 2023.
 
